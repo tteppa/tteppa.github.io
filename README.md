@@ -1,4 +1,4 @@
-Trying to get a GitHub pages thing going here, with MathJax support.
+Trying to get a blog thing going here so I can write math. Used Jekyll to set up the GitHub Pages blog and then added MathJax.
 
 ### TO-DO:
 <ol>
