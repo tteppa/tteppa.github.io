@@ -1,5 +1,3 @@
-Math blog is at [tteppa.github.io](tteppa.github.io).
-
 Trying to get a GitHub pages thing going here, with MathJax support.
 
 ### TO-DO:
