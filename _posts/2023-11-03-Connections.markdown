@@ -29,7 +29,7 @@ We defined a connection as a projection above, but this definition of a connecti
   <li> $\nabla_X(as + bt) = a\nabla_Xs + b\nabla_Xt$ whenever $a,b\in\mathbb{R}$ and $s,t\in\Gamma(E)$; </li>
   <li> $\nabla_X(fs) = f\nabla_Xs + X(f)s$ whenever $X \in \mathfrak{X}(M)$, $f\in C^\infty(M)$, and $s\in \Gamma(E)$. </li>
 </ul>
-That is, a connection is defined by the algebraic properties such a differentiation operator we were looking for before <em>should</em> satisfy. This kind of connection is typically called a <strong> Koszul connection </strong>, or merely a "linear connection."
+That is, a connection is defined by the algebraic properties such a differentiation operator we were looking for before <em>should</em> satisfy. This kind of connection is typically called a <strong>Koszul connection</strong>, or merely a "linear connection."
 
 <!-- Need to use double backslash square bracket. Setting displayMath: [['\[', '\]']] in default.html 
 correctly made it so that \[ and \] would delimit displayed math, but then it would read any square
