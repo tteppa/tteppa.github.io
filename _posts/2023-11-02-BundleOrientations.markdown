@@ -9,8 +9,6 @@ categories: jekyll update
 
 Recently, somebody online asked whether or not the fact that a Riemannian hypersurface (inside of an oriented Riemannian manifold) is orientable if and only if it admits a global unit normal generalizes to any submanifold. This led to a fun discussion about normal bundles (in general, i.e., away from the Riemannian setting) and orientability. The purpose of this note is to record some of my thoughts on that discussion. 
 
-OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
 In what follows, all vector spaces are real and finite-dimensional, and all manifolds are smooth, real, and finite-dimensional.
 
 ### 2-out-of-3 principle 
