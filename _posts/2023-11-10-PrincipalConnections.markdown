@@ -2,8 +2,8 @@
 layout: post
 title: "Connection forms"
 date: 2023-11-03 
-categories: vector_bundles princiapal_bundles
-published: false  
+categories: vector_bundles principal_bundles
+published: false
 ---
 
 ## Introduction
